@@ -1,0 +1,27 @@
+# 빌드 결과
+*.o
+*.vo
+/alley.exe
+/alleyvga.exe
+/alleytst.exe
+/alleyvt.exe
+/hosttest.exe
+/preview256.exe
+/movie.exe
+/audiomix.exe
+
+# 시험 모드 / 미리보기 부산물
+/ALLEYLOG.TXT
+/alleytst.txt
+/alleyerr.txt
+*.BMP
+tools/__pycache__/
+tools/*.png
+test/*.log
+test/c_ds.bin
+test/c_vram.bin
+test/trace.bin
+test/emu_at_mismatch.png
+
+# 배포 폴더 (build.bat 로 다시 만든다)
+/release/

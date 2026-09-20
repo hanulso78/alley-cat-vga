@@ -1,0 +1,137 @@
+3.000 down n
+3.100 up n
+4.000 down n
+4.100 up n
+5.000 down h
+5.100 up h
+6.000 down space
+6.100 up space
+8.000 poke 421 5
+8.000 poke 422 5
+8.000 poke 423 5
+8.000 poke 424 5
+8.000 poke 425 5
+8.000 poke 426 5
+8.000 poke 427 5
+8.000 poke 428 5
+8.000 poke 429 5
+8.000 poke 42a 5
+8.000 poke 42b 5
+8.000 poke 42c 5
+8.000 poke 42d 5
+8.000 poke 42e 5
+8.000 poke 42f 5
+8.000 poke 430 5
+8.000 poke 431 5
+8.300 poke 551 1
+9.500 poke 1cbf 1
+9.500 pokew 1cc6 60
+10.000 down left
+10.262 up left
+10.689 down left
+11.697 up left
+12.201 down right
+12.908 up right
+13.241 down left
+14.389 up left
+14.570 down right
+14.849 up right
+15.048 down left
+15.555 up left
+15.823 down down
+16.206 up down
+16.303 down right
+16.723 up right
+17.030 down right
+18.174 up right
+18.209 down right
+18.714 up right
+19.123 down left
+19.474 up left
+19.942 down left
+20.714 up left
+20.849 down left
+21.680 up left
+21.841 down left
+21.988 up left
+22.308 down down
+22.755 up down
+23.051 down right
+24.251 up right
+24.733 down left
+25.339 up left
+25.679 down right
+25.740 up right
+26.115 down right
+27.315 up right
+27.625 down right
+28.809 up right
+29.146 down down
+29.686 up down
+29.777 down right
+30.725 up right
+31.297 down left
+31.458 up left
+31.587 down left
+32.658 up left
+33.018 down down
+33.703 up down
+34.135 down down
+34.416 up down
+34.775 down right
+34.935 up right
+35.125 down right
+35.628 up right
+35.776 down right
+36.973 up right
+37.278 down right
+38.105 up right
+38.458 down right
+38.537 up right
+39.091 down left
+39.603 up left
+39.956 down left
+40.449 up left
+40.816 down down
+41.486 up down
+41.918 down down
+43.045 up down
+43.135 down left
+43.947 up left
+44.100 down left
+44.241 up left
+44.707 down left
+44.966 up left
+45.006 down left
+45.867 up left
+46.379 down left
+46.860 up left
+47.088 down down
+47.700 up down
+48.226 down right
+49.049 up right
+49.553 down left
+50.119 up left
+50.213 down right
+51.384 up right
+51.821 down down
+52.116 up down
+52.467 down down
+52.659 up down
+52.793 down left
+53.212 up left
+53.476 down right
+54.145 up right
+54.514 down right
+55.642 up right
+56.184 down left
+56.734 up left
+56.886 down right
+56.980 up right
+57.502 down right
+58.696 up right
+58.966 down right
+59.521 up right
+59.726 down right
+60.000 quit
+60.175 up right

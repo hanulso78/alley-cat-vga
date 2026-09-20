@@ -1,0 +1,23 @@
+3 down n
+3.1 up n
+4 down n
+4.1 up n
+5 down k
+5.1 up k
+6 down space
+6.1 up space
+9 down right
+9 log
+9.25 log
+9.5 log
+9.75 log
+10 log
+10.25 log
+10.5 log
+10.75 log
+11 log
+11.25 log
+11.5 log
+11.5 shot s_walk
+12 up right
+12.5 quit

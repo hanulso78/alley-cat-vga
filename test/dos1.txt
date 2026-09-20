@@ -1,0 +1,19 @@
+2 shot t_title
+3 down n
+3.1 up n
+4 down n
+4.1 up n
+4.5 shot t_menu
+5 down k
+5.1 up k
+6 down space
+6.1 up space
+8 shot t_game1
+10 down up
+10.5 shot t_game2
+11 up up
+11 down right
+13 shot t_game3
+15 up right
+16 shot t_game4
+17 quit

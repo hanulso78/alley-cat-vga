@@ -1,0 +1,170 @@
+3.000 down n
+3.100 up n
+4.000 down n
+4.100 up n
+5.000 down a
+5.100 up a
+6.000 down space
+6.100 up space
+8.000 poke 421 3
+8.000 poke 422 3
+8.000 poke 423 3
+8.000 poke 424 3
+8.000 poke 425 3
+8.000 poke 426 3
+8.000 poke 427 3
+8.000 poke 428 3
+8.000 poke 429 3
+8.000 poke 42a 3
+8.000 poke 42b 3
+8.000 poke 42c 3
+8.000 poke 42d 3
+8.000 poke 42e 3
+8.000 poke 42f 3
+8.000 poke 430 3
+8.000 poke 431 3
+8.300 poke 551 1
+9.000 down alt
+10.024 up alt
+10.569 down alt
+11.682 up alt
+11.962 down pgup
+12.591 up pgup
+12.952 down up
+13.561 up up
+14.000 poke 553 1
+14.030 down up
+15.197 up up
+15.239 down right
+15.475 up right
+15.742 down alt
+16.213 up alt
+16.496 down up
+16.821 up up
+17.296 down down
+17.585 up down
+17.843 down up
+18.137 up up
+18.528 down alt
+19.360 up alt
+19.759 down up
+20.263 up up
+20.491 down down
+20.629 up down
+21.076 down down
+21.133 up down
+21.412 down alt
+21.570 up alt
+22.000 poke 551 1
+22.048 down up
+22.908 up up
+22.914 down alt
+23.000 poke 553 1
+23.906 up alt
+24.497 down down
+24.755 up down
+24.795 down right
+25.310 up right
+25.905 down home
+26.372 up home
+26.763 down down
+27.005 up down
+27.511 down alt
+27.919 up alt
+28.441 down pgup
+29.101 up pgup
+29.625 down left
+29.751 up left
+30.096 down alt
+31.234 up alt
+31.760 down home
+32.749 up home
+33.155 down alt
+34.096 up alt
+34.581 down home
+35.364 up home
+35.776 down home
+36.057 up home
+36.617 down alt
+37.180 up alt
+37.714 down right
+37.857 up right
+37.947 down up
+38.385 up up
+38.426 down alt
+39.109 up alt
+39.708 down down
+39.824 up down
+39.991 down home
+40.418 up home
+40.586 down right
+40.924 up right
+41.046 down left
+41.699 up left
+42.179 down up
+42.510 up up
+42.679 down right
+42.743 up right
+43.123 down home
+43.877 up home
+44.271 down left
+45.246 up left
+45.389 down up
+45.981 up up
+46.098 down alt
+46.764 up alt
+46.965 down right
+47.346 up right
+47.753 down down
+48.264 up down
+48.297 down right
+48.941 up right
+49.070 down pgup
+49.259 up pgup
+49.464 down up
+49.542 up up
+50.058 down right
+50.886 up right
+51.298 down up
+51.939 up up
+52.314 down right
+52.511 up right
+52.839 down up
+53.234 up up
+53.414 down up
+53.741 up up
+54.002 down down
+55.173 up down
+55.624 down right
+55.731 up right
+56.326 down pgup
+57.387 up pgup
+57.650 down left
+58.009 up left
+58.436 down left
+59.375 up left
+59.654 down alt
+60.764 up alt
+60.799 down down
+61.916 up down
+62.316 down home
+63.075 up home
+63.161 down pgup
+64.137 up pgup
+64.519 down left
+65.365 up left
+65.524 down pgup
+65.714 up pgup
+65.765 down alt
+66.733 up alt
+66.936 down pgup
+67.070 up pgup
+67.352 down down
+67.527 up down
+67.530 down up
+67.830 up up
+68.308 down left
+69.486 up left
+69.926 down pgup
+70.000 quit
+70.158 up pgup
