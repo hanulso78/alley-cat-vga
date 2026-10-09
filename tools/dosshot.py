@@ -33,10 +33,16 @@ for ln in open(script):
     if len(p) >= 3 and p[1] in ('shot', 'shown'):
         names.append(p[2])
 imgs = []
+save_dir = os.environ.get('DOSSHOT_DIR')      # 한 장씩 따로 저장할 폴더 (없으면 모아서 한 장)
+if save_dir:
+    os.makedirs(save_dir, exist_ok=True)
 for n in names:
     fn = os.path.join(ROOT, n.upper() + '.BMP')
     if os.path.exists(fn):
-        imgs.append(Image.open(fn).convert('RGB'))
+        im = Image.open(fn).convert('RGB')
+        imgs.append(im)
+        if save_dir:
+            im.save(os.path.join(save_dir, n + '.png'))
         os.remove(fn)
 cols = 3
 W = Image.new('RGB', (cols * 322, max(1, (len(imgs) + cols - 1) // cols) * 202), (60, 60, 60))
